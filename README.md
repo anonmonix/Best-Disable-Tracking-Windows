@@ -1,6 +1,7 @@
 # Awesome-Windows-Wiping-Code
+Windows10 추적 피하기 소스 모음
 
-## Del All Disk 
+## Delete All Disk (모든 디스크 제거)
 
 * [DellAllDisk.bat](https://github.com/anonmonix/awesome-windows-wiping-code/blob/main/DellAllDisk.bat)
 
