@@ -1,5 +1,5 @@
 # Awesome-Windows-Wiping-Code
-Windows10 추적 피하기 소스 모음
+Windows 추적 피하기 소스 모음
 
 ## Delete All Disk (모든 디스크 제거)
 
