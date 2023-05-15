@@ -16,3 +16,4 @@ Remember, this script is highly destructive and should never be used maliciously
 ## Cear All Browsing (모든 브라우저 기록 제거)
 
 * [CearAllBrowsing.ps1](https://github.com/anonmonix/awesome-windows-wiping-code/blob/main/CearAllBrowsing.ps1)
+*Made by [mark05e/DriveClean.ps1](https://gist.github.com/mark05e/745afaf5604487b804ede2cdc38a977f)*
