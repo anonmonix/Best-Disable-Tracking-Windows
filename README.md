@@ -1,7 +1,7 @@
 # Awesome-Windows-Wiping-Code
 Windows 추적 피하기 소스 모음
 
-기초 적인 퉆 (Basic )
+기초 적인 툴 (Basic Tool)
 * [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)
 
 ## Delete All Disk (모든 디스크 제거)
